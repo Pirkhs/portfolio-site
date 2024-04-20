@@ -23,6 +23,10 @@
     color: grey
 }
 
+.title-description {
+    margin-right: 15rem;
+    margin-left: 15rem;
+}
 
 .project-card {
     display: flex;
