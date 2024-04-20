@@ -19,7 +19,7 @@ export default function About () {
                     <div className="card">
                         <p className="question">  Q: Describe yourself  </p>
                         <br></br>
-                        <p className="answer"> I am Nathan Briers, a 19 year old with a passion for tech and a willigness to learn new things  </p>
+                        <p className="answer"> I am Nathan Briers, a 19 year old with a passion for tech and a willingness to learn new things  </p>
                     </div>
                     <div className="card">
                         <p className="question">  Q: How long have you been a software developer? </p>
