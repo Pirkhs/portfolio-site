@@ -2,7 +2,7 @@
 
 ## Viewing the online version
 
-The online version of my portfolio site is hosted on Netlify at ...
+The online version of my portfolio site is hosted on Netlify at https://nathan-briers-portfolio.netlify.app/
 
 ## Viewing a local version
 
