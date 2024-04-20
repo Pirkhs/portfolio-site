@@ -1,0 +1,60 @@
+
+html{scroll-behavior:smooth}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    background-color: #343a49;
+    border: 1px solid black;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+.name {
+    font-size: 200%;
+}
+
+.divider {
+    color: lightgrey;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.link, .divider {
+    font-size: 150%;
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+    text-decoration: none;
+    color: grey;
+}
+
+.link:hover {
+    color: white;
+}
+
+.contact-me {
+    position: absolute;
+    right: 1rem;
+    background-color: #6741d9;
+    cursor: pointer;
+    padding: 1rem;
+    font-weight: bold;
+    border: 1px solid white;
+    text-decoration: none;
+    border-radius: 0.5rem;
+}
+
+.contact-me:hover {
+    opacity: 0.6;
+}
+
+.text-white {
+    color: white;
+}

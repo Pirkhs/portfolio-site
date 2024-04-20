@@ -1,0 +1,72 @@
+.projects-section {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20rem;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.container-projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    /* background-color: #343a49; */
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    margin-left: 2rem;
+}
+
+
+.projects-icon {
+    width: 3rem;
+    height: 3rem;
+    color: grey
+}
+
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 30rem;
+    margin: 1rem;
+    background-color: #1e201e;
+}
+
+.project-card:hover {
+    background-color: #232523;
+}
+
+.project-title {
+    text-align: center;
+    color: lightgrey;
+    border-bottom: 1px solid white;
+}
+
+.project-description {
+    text-align: center;
+    color: white;
+}
+
+.project-img {
+    border: 2px solid grey;
+    height: 25rem;
+    width: 28rem;
+    margin-bottom: 1.5rem;
+}
+
+.view-more {
+    border-radius: 1rem;
+    background-color: #6741d9;
+    color: white;
+    cursor: pointer;
+    padding: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid white;
+}
+
+.view-more:hover{
+    opacity: 0.6;
+}

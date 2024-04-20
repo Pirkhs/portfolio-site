@@ -1,0 +1,26 @@
+.intro {
+    display: flex;
+    margin-top: 15%;
+}
+
+.greeting {
+    font-size: 250%;
+    color: white;
+}
+
+.name {
+    font-size: 300%;
+    color: #6741d9;
+}
+
+h3 {
+    font-size: 75%;
+    color: grey;
+}
+
+.image {
+    border: 1px solid black;
+    width: 25rem;
+    height: 30rem;
+    border-radius: 3rem;
+}

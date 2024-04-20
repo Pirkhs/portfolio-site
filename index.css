@@ -1,0 +1,7 @@
+html,body {
+    background-image: url("https://img.freepik.com/free-vector/creative-geometric-design-space_53876-89787.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713484800&semt=ais");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /* background-image: linear-gradient(to bottom right, #3d444b , #1a1d20); */
+}
