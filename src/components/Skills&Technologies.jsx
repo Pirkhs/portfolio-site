@@ -16,9 +16,11 @@ export default function SkillsTechnologies () {
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> JavaScript </p> </span> 
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> Node </p> </span> 
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> React.js </p> </span> 
+                <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> React Native </p> </span> 
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> Firebase </p> </span> 
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> PSQL </p> </span> 
                 <span className="skill-card"> <TiTick className="skill-card-icon"/> <p> Express.js </p> </span> 
+
             </div>
         </section>
     )

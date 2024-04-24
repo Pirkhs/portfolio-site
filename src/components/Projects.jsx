@@ -23,7 +23,7 @@ export default function Projects () {
                     <div id="project-1" className="project-card" onMouseEnter={(e) => {imageHover(e)}}>
                         <p className="project-title">  'NC News' Back End Web API  </p>
                             <br></br>
-                            <p className="project-description"> A fairly simple and free-to-use web api service that allows for queries to a PSQL database regarding comments, articles and users. </p>
+                            <p className="project-description"> A fairly simple and free-to-use web api service that allows for queries to a PSQL database regarding comments, articles and users </p>
                             <br></br>
                             <img className="project-img" src="https://i.ibb.co/Dgwqvyf/Screenshot-from-2024-04-19-16-14-51.png" alt="NC News Back End API Screenshot"></img>
                             <br></br>
@@ -64,7 +64,16 @@ export default function Projects () {
                             <br></br>
                             <img className="project-img" src="https://i.ibb.co/89n6QSS/Screenshot-from-2024-04-19-21-07-46.png" alt="Screenshot for the users account page when logging into the Bankist app"></img>
                             <br></br>
-                            <a href="https://github.com/Pirkhs/Complete-JavaScript-Course/tree/main/12-Numbers-Dates-Timers-Bankist" className="view-more"> Github Repository</a>
+                            <a href="https://github.com/Pirkhs/Complete-JavaScript-Course/tree/main/12-Numbers-Dates-Timers-Bankist/starter" className="view-more"> Github Repository</a>
+                    </div>
+                    <div id="project-6" className="project-card" onMouseEnter={(e) => {imageHover(e)}}>
+                        <p className="project-title"> 'Mapty' Web Application </p>
+                            <br></br>
+                            <p className="project-description"> This fun web application uses geolocation and the Leaflet external library to allow users to track their exercises by pinning them on a map. And their exercises are persistent upon refresh via the use of local storage. This project was also completed as part of Jonas Schmedtmann's JavaScript course on Udemy. But I aim to add further features and implementations to come </p>
+                            <br></br>
+                            <img className="project-img" src="https://i.ibb.co/BgvNYxG/Screenshot-from-2024-04-24-15-46-07.png" alt="The Mapty front page, displaying a list of exercises on the left and a giant map on the right."></img>
+                            <br></br>
+                            <a href="https://github.com/Pirkhs/Complete-JavaScript-Course/tree/main/15-Mapty/starter" className="view-more"> Github Repository</a>
                     </div>
                 </div>
 
