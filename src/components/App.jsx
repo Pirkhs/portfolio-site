@@ -12,9 +12,7 @@ export default function App() {
   return (
     <>
       <NavBar/>
-      <div className="margin">
-        <Intro/>
-      </div>
+      <Intro/>
       <About/>
       <Projects/>
       <SkillsTechnologies/>

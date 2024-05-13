@@ -13,9 +13,9 @@ export default function Contact () {
             </header>
             <span className="platforms"> 
                 {/* <p className="platform"> <FaInstagram /> Instagram </p> */}
-                <a className="platform" href="https://www.linkedin.com/in/nathan-briers-47b61125b/"> <FaLinkedin color="#0a66c2" /> LinkedIn </a>
+                <a className="platform" href="https://www.linkedin.com/in/nathan-briers-47b61125b/"> <FaLinkedin color="#0a66c2" /> <u> LinkedIn </u> </a>
                 <a className="platform"> <SiGmail color="red" /> nathan.briers32@gmail.com </a>
-                <a className="platform" href="https://github.com/Pirkhs"> <FaGithub /> GitHub </a>
+                <a className="platform" href="https://github.com/Pirkhs"> <FaGithub /> <u> GitHub </u> </a>
                 <br></br>
             </span>
             <span className="container-view-cv">

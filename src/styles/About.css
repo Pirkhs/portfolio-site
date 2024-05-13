@@ -7,9 +7,11 @@
 }
 
 .about-me {
+    width: 100%;
     margin-top: 5rem;
     margin-left: 5%;
     margin-right: 5%;
+    /* border: 1px solid black; */
 }
 
 .title {
@@ -24,6 +26,8 @@
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    /* border: 1px solid black; */
+
 }
 
 .card {
@@ -35,8 +39,6 @@
 }
 
 .card:hover {
-    width: 16rem;
-    height: 16rem;
     background-color: #232523;
 }
 

@@ -1,6 +1,7 @@
 .intro {
     display: flex;
     margin-top: 15%;
+    margin-left: 5%;
 }
 
 .greeting {
