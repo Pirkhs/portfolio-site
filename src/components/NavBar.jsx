@@ -11,7 +11,7 @@ export default function NavBar () {
                         <a className="link" href="#about"> About</a>
                         <a className="link" href="#projects"> Projects</a>
                         <a className="link" href="#skills"> Skills & Technologies</a>
-                        <a href="#contact" className=" link contact-me text-white"> Contact Me </a>
+                        {/* <a href="#contact" className=" link contact-me text-white"> Contact Me </a> */}
                     </span>
                     
                     
