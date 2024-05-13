@@ -25,6 +25,8 @@ nav {
     font-size: 125%;
     gap: 3%;
     border-left: 1px solid grey;
+    margin-right: 12%;
+    padding-left: 2%;
     /* border: 1px solid black; */
 }
 
