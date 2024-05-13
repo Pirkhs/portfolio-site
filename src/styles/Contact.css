@@ -2,22 +2,19 @@ footer {
     background-color: #343a49;
     border: 1px solid black;
     padding: 1rem;
-}
-
-.section-contact {
     margin-top: 15rem;
 }
 
 .platforms {
     display: flex;
-    flex-direction: row;
-    gap: 1rem;
-    align-items: center;
+    gap: 2%;
     justify-content: center;
     padding-top: 2rem;
 }
 
 .platform {
+    display: flex;
+    flex-direction: row;
     text-decoration: none;
     color: white;
 }

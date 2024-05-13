@@ -8,7 +8,7 @@ export default function SkillsTechnologies () {
             <header className="title">
                 <GoCpu className="skills-icon" />
                 <h2 className="title-skills"> Skills & Technologies </h2>
-                <h3 className="title-description"> I have dedicated this section to highlight the different skills and technologies I have used in the past</h3>
+                <h3 className="title-description"> I have dedicated this section to highlight the different skills and/or technologies I have used in my projects </h3>
             </header>
             <div className="container-skills">
                 <span className="skill-card"> <TiTick className="skill-card-icon" /> <p> HTML </p> </span> 

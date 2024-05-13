@@ -9,13 +9,11 @@ export default function NavBar () {
 
                     <span className="links">
                         <a className="link" href="#about"> About</a>
-                        <br></br>
                         <a className="link" href="#projects"> Projects</a>
-                        <br></br>
                         <a className="link" href="#skills"> Skills & Technologies</a>
+                        <a href="#contact" className=" link contact-me text-white"> Contact Me </a>
                     </span>
                     
-                    <a href="#contact" className=" contact-me text-white"> Contact Me </a>
                     
             </nav>
         </>
