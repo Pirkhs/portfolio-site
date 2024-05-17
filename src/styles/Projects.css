@@ -17,16 +17,10 @@
     /* background-color: #343a49; */
 }
 
-
 .projects-icon {
     width: 3rem;
     height: 3rem;
     color: grey
-}
-
-.title-description {
-    margin-left: 20%;
-    margin-right: 20%;
 }
 
 .project-card {

@@ -14,12 +14,6 @@
     /* border: 1px solid black; */
 }
 
-.title {
-    text-align:center;
-    font-size: 125%;
-    color: white;
-}
-
 .container-cards {
     display: flex;
     flex-direction: row;
