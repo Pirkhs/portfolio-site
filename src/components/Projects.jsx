@@ -77,6 +77,15 @@ export default function Projects () {
                             <br></br>
                             <a href="https://github.com/Pirkhs/Complete-JavaScript-Course/tree/main/15-Mapty/starter" className="view-more"> Github Repository</a>
                     </div>
+                    <div id="project-8" className="project-card" >
+                        <p className="project-title"> Hangman Web Game </p>
+                            <br></br>
+                            <p className="project-description"> The classic hangman game, created as a website application. This project initially began as one of the sprints in the Northcoders bootcamp, but I decided to re-visit it shortly after completing the course. It contains all the main features expected from a typical depiction of the iconic game, with a few added features like using local storage to track the lowest incorrect letter guesses. It is a fairly small and simple application constructed using React and JavaScript, but valuable experience nonetheless. </p>
+                            <br></br>
+                            <img className="project-img" src="https://i.ibb.co/gFyC4tF/Screenshot-from-2024-05-21-00-41-39.png" alt="Home page for a hangman game with a blue gradient background"></img>
+                            <br></br>
+                            <a href="https://github.com/Pirkhs/fe-tiny-react-apps/tree/main/hangman-game" className="view-more"> Github Repository</a>
+                    </div>
                 </div>
 
             </section>

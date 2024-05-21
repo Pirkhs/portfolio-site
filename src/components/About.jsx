@@ -24,12 +24,12 @@ export default function About () {
                     <div className="card">
                         <p className="question">  Q: How long have you been a software developer? </p>
                         <br></br>
-                        <p className="answer"> My only real professional experience with coding is through the Northcoders bootcamp which lasted 13 weeks. The rest of my time is spent on self-taught online courses. </p>
+                        <p className="answer"> Through my intiative to learn new things, I began the Northcoders bootcamp in January 2024, which lasted 13 weeks. And I am furthering my knowledge through many online courses and solo projects </p>
                     </div>
                     <div className="card">
                         <p className="question">  Q: Why software development? </p>
                         <br></br>
-                        <p className="answer"> I see true joy and excitement from completing projects and showcasing them with the world </p>
+                        <p className="answer"> I see true joy and excitement from completing projects and showcasing them with the world, as well as working with a team </p>
                     </div>
                     <div className="card">
                         <p className="question">  Q: Where can I view your projects?  </p>
