@@ -84,7 +84,7 @@ export default function Projects () {
                             <br></br>
                             <img className="project-img" src="https://i.ibb.co/gFyC4tF/Screenshot-from-2024-05-21-00-41-39.png" alt="Home page for a hangman game with a blue gradient background"></img>
                             <br></br>
-                            <a href="https://github.com/Pirkhs/hangman-game" className="view-more"> Github Repository</a>
+                            <a href="https://github.com/Pirkhs/hangman-game/tree/main/hangman-game" className="view-more"> Github Repository</a>
                     </div>
                 </div>
 
