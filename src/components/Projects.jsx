@@ -86,8 +86,18 @@ export default function Projects () {
                             <br></br>
                             <a href="https://github.com/Pirkhs/hangman-game/tree/main/hangman-game" className="view-more"> Github Repository</a>
                     </div>
+                    <div id="project-7" className="project-card" >
+                        <p className="project-title"> Exhibition Curator </p>
+                            <br></br>
+                            <p className="project-description"> Exhibition Curator enables uers to browse through the Metropolitan Museum of Arts and the Harvard Arts Museum, and can find their favourite art piece by filtering/sorting/searching throuh the results. Once finding a piece of artwork that grabs their attention, add it to their own personal exhibition to show friends. This project was made as freelance work as part of Launchpad's Cohort 5 position at Northcoders Group PLC. It has been constructed mainly using React.js and using localStorage to store user data. </p>
+                            <br></br>
+                            <img className="project-img" src="https://i.ibb.co/Z2Tjy0m/Screenshot-from-2024-10-18-15-14-21.png" alt="Browsing the Harvard Arts Museum Collection with a 'Paintings' Filter"></img>
+                            <br></br>
+                            <a href="https://github.com/Pirkhs/Exhibition-Curator" className="view-more"> Github Repository</a>
+                    </div>
                 </div>
 
             </section>
     )
 }
+<a href="https://ibb.co/ydRtxVb"><img src="https://i.ibb.co/djcFH7z/Screenshot-from-2024-10-18-15-00-25.png" alt="Screenshot-from-2024-10-18-15-00-25" border="0" /></a>
